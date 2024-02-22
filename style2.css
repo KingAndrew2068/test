@@ -50,9 +50,8 @@ h1{
 
 
 .topnav {
-    background-color: #333;
+    background-color: #7599a5;
     overflow: hidden;
-    animation:fade-down;
   }
   
   .topnav a {
@@ -72,9 +71,13 @@ h1{
   }
   
   .topnav a.active {
-    background-color: #a5d8e9;
+    background-color: #7ca1ad;
     color: white;
   }
+
+  .topnav-right{
+    float:right;
+      }
 
 .container{
     display: flex;
