@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
 @keyframes transitionIn{
     from{
         opacity:0;
@@ -58,7 +59,7 @@ h1{
     float: left;
     color: #f2f2f2;
     text-align: center;
-    font-family: 'Lilita One', sans-serif;
+    font-family: 'Urbanist', sans-serif;
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
