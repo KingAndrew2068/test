@@ -124,7 +124,7 @@ header .content p{
 }
 
 .main p{
-    font-family: 'Lilita One',sans-serif;
+    font-family: 'Titilium Web',sans-serif;
     color:white;
     font-size:20px;
 }
@@ -197,6 +197,15 @@ padding:60px;
 ::-webkit-scrollbar{
 background:#a5d8e9;
 width:0px;
+}
+.copyright{
+    max-width: 1200px;
+    margin: auto;
+    padding: 1rem;
+    color: #000000;
+    font-family: 'Titillium Web',sans-serif;
+    font-size: 0.8rem;
+    text-align: center;
 }
 
 .aicssdekkt {
